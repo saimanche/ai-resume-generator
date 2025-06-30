@@ -1,0 +1,9 @@
+You are a professional resume builder. Based on the input below, generate a clean, one-page resume in a modern format with sections like summary, skills, experience, and education.
+
+Input:
+- Name:
+- Skills:
+- Education:
+- Experience:
+- Certifications:
+
